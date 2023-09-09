@@ -174,7 +174,7 @@ html{
 }
 
 .anime{
-  opacity: 1;
+  opacity: 0;
   transition: .3s;
  
 }
@@ -833,6 +833,47 @@ hr{
   
 }
 
+/*Politica de privacidade*/
+
+.pl-center2{
+  display: grid;
+  justify-content: center;
+ padding: 30px;
+}
+.titulo-pl{
+  text-align: center;
+  font-size: 30px;
+}
+.titulosub-pl{
+  font-size: 20px;
+}
+
+.pl-texto{
+  color: #6E6E6E;
+  text-align: left;
+  font-size: 17px;
+}
+
+.pl-space-texto{
+ width: 800px;
+}
+.pl-texto-titulo{
+  color: #000000;
+  font-size: 18px;
+}
+@media (max-width:800px) {
+  .pl-space-texto{
+    width:542px ;
+   }
+}
+
+@media (max-width:500px) {
+
+  .pl-space-texto{
+    width:300px ;
+   }
+}
+
 footer{
   background-color: #000000;
   color: #ffffff;
@@ -1102,7 +1143,8 @@ footer{
 }
 
 @media (max-width:800px) {
- 
+
+  
   nav{
       display: none;
   }
@@ -1591,3 +1633,4 @@ footer{
       padding-right: 20px;
   }
 }
+
