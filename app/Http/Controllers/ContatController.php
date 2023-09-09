@@ -25,6 +25,9 @@ class ContatController extends Controller
     public function sobre(){
         return view('sobre');
     }
+    public function politica(){
+        return view('politica ');
+    }
 
 
     public function form() {

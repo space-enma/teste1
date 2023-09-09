@@ -27,4 +27,5 @@ Route::get('/welcome', [ContatController::class, 'welcome']);
 Route::get('/contats', [ContatController::class, 'contats']);
 Route::get('/equipe', [ContatController::class, 'equipe']);
 Route::get('/sobre', [ContatController::class, 'sobre']);
+Route::get('/politica', [ContatController::class, 'politica']);
 

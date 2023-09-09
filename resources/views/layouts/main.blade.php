@@ -70,6 +70,17 @@
         </div>   
         <div class="footer-paginas">
             <div class="footer-pagina-titulo">
+                <h1>Dúvidas</h1>
+                
+            </div>
+
+            <div class="footer-paginas-pagina">
+                <a target="_blank" href="/politica">Política de Privacidade e  Segurança <br> de Dados</a>
+               
+            </div>
+        </div>   
+        <div class="footer-paginas">
+            <div class="footer-pagina-titulo">
                 <h1>Contato</h1>
                 
             </div>
