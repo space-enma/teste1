@@ -5,7 +5,7 @@
 @section('content')
 
 <section>
-  <x-servicos/>
+  <x-servicos />
 </section>
 
 @endsection
