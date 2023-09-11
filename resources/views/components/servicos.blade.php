@@ -7,7 +7,7 @@
 
     <div class="servicos-area-position">
         <div class="servicos-area">
-            <div class="servico-item servico-area1 anime">
+            <div class="servico-item servico-area1">
                 <div class="servico-item-area">
                     <div class="sevico-area-img">   
                          <img src="/img/iconeservice/code.png" alt="">       
@@ -24,7 +24,7 @@
                 
             </div>
 
-            <div class="servico-item servico-area2 anime">
+            <div class="servico-item servico-area2 ">
             <div class="servico-item-area">
                     <div class="sevico-area-img">   
                          <img src="/img/iconeservice/suporte-ao-cliente.png" alt="">       
@@ -55,7 +55,7 @@
                 </div>
             </div>
 
-            <div class="servico-item servico-area4 anime">
+            <div class="servico-item servico-area4 ">
                 <div class="servico-item-area">
                     <div class="sevico-area-img">   
                         <img src="/img/iconeservice/seo.png" alt="">       
