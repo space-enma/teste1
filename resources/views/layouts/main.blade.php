@@ -5,11 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="/css/styles.css">
+    <link rel="shortcut icon" href="img/icospaceenma1.png" type="image/x-icon">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
     <title>@yield('title')</title>
   </head>
   <header>
-   
+    
     <div class="header">
         <div class="logo">
             <img  class="img-logo" src="/img/logo/logospace1.png" alt="">

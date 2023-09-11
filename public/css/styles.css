@@ -173,18 +173,6 @@ html{
   
 }
 
-.anime{
-  opacity: 0;
-  transition: .3s;
- 
-}
-
-.anime-off{
-  animation: zoomIn;
-  animation-duration: 2s;
-  opacity: 1;
-}
-
 .servico-area1{
   background-color: #ffffff;
   

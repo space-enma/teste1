@@ -40,7 +40,7 @@
             </div>            
         </div>
         <div class="servicos-area1">
-            <div class="servico-item servico-area3 anime">
+            <div class="servico-item servico-area3 slide-fwd-center">
             <div class="servico-item-area">
                     <div class="sevico-area-img atualizacao">   
                          <img src="/img/iconeservice/atualizacao-do-sistema.png" alt="">       
