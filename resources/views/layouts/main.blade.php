@@ -9,6 +9,15 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
     <title>@yield('title')</title>
   </head>
+  <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-2V13S91VJF"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-2V13S91VJF');
+    </script>
   <header>
     
     <div class="header">
@@ -63,9 +72,9 @@
             </div>
 
             <div class="footer-paginas-pagina">
-                <a target="_blank" href="/home">Home</a>
-                <a target="_blank" href="/servicos">Serviços</a>
-                <a target="_blank" href="/contato">Contato</a>
+                <a target="_blank" href="/">Home</a>
+                <a target="_blank" href="/servico">Serviços</a>
+                <a target="_blank" href="/contats">Contato</a>
                 <a target="_blank" href="/equipe">Equipe</a>
             </div>
         </div>   
